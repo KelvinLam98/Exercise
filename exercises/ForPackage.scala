@@ -1,0 +1,5 @@
+package exercises
+
+class ForPackage {
+
+}
